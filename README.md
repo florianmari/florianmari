@@ -6,4 +6,4 @@
 - 🏢 I'm currently working full-time with awesome peeps at **Deezer**
 - ⚙️ I use daily: `.swift`, `.m`, `.json`, `.sql`, `.js`
 - 🌱 Learning more about and studying: **Open Source, React, CS Algorithms**
-- 📫 Reach me: <a href="https://twitter.com/florianmari">Twitter</a> or florian@hey.com
+- 📫 Reach me: <a href="https://twitter.com/florianmari">Twitter</a> or github@florianmari.com
